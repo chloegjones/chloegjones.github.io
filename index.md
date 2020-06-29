@@ -1,0 +1,8 @@
+<!-- html5 doctype -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head></head>
+  <title></title>
+  <body></body>
+</html>
